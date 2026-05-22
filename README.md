@@ -150,10 +150,7 @@ pip install -r requirements.txt
 - **Migration errors**: Ensure all migrations are applied with `python manage.py migrate`
 - **Import errors**: Verify the virtual environment is activated and all dependencies are installed
 
-## License
-
-[Add your license information here]
 
 ## Support
 
-For issues or questions, please contact the development team.
+For issues or questions, please me on +263 787 449 535
